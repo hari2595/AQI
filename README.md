@@ -5,4 +5,7 @@ The code for the Python notebook is attached as part of the repository. <br>
 Initial analysis provides us with the correlation between population, poulation density with AQI.<br>
 With Tableau we explore the trends over the year for the whole country and each indvidual states.<br>
 We also provide estimated forecast through our analysis. <br>
+<p>
+    <img src="https://raw.githubusercontent.com/hari2595/AQI/main/Capture.PNG" width="880" height="440" />
+</p>
 The Tableau workbook is attached along with files.
