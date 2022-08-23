@@ -5,10 +5,12 @@ An KPI dashboard built with Tableaue and python to explore the AQI data of USA.<
 -Tableau Desktop
 <br>
 -Juputer Notebook <br><br>
-### Data source:
+
+#### Data source:
+
 <br>
 https://www.kaggle.com/datasets/calebreigada/us-air-quality-1980present
-<br>
+<br><br>
 -We first clean the data and create a few new columns such month to aid our exploration with the help of Python via Jupyter. <br>
 <p>
     <img src="https://raw.githubusercontent.com/hari2595/AQI/main/py.PNG" width="880" height="440" />
